@@ -4,6 +4,8 @@
 
 ---
 
+<!-- Intro -->
+
 ## Engineering
 
 vs
@@ -12,6 +14,36 @@ vs
 
 ---
 
-## One of the most fundamental area of hacking
+## the most fundamental area
 
-### Understanding the target
+---
+
+## PL-like area
+
+---
+
+<!-- Tools -->
+
+## Many useful tools!
+
+---
+
+## Timing for using tools
+
+---
+
+## Do NOT waste your time
+
+---
+
+<!-- Languages using VM -->
+
+## JAVA
+
+---
+
+## Python
+
+---
+
+## .NET Framework
